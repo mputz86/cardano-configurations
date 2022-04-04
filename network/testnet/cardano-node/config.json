@@ -49,7 +49,7 @@
   "TraceTxInbound": false,
   "TraceTxOutbound": false,
   "TraceTxSubmissionProtocol": false,
-  "TracingVerbosity": "NormalVerbosity",
+  "TracingVerbosity": "MaximalVerbosity",
   "TurnOnLogMetrics": true,
   "TurnOnLogging": true,
   "defaultBackends": [
