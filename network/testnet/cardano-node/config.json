@@ -25,6 +25,8 @@
   "TraceChainSyncHeaderServer": false,
   "TraceChainSyncProtocol": false,
   "TraceConnectionManager": true,
+  "TraceDnsResolver": true,
+  "TraceDnsSubscription": true,
   "TraceDNSResolver": true,
   "TraceDNSSubscription": true,
   "TraceDiffusionInitialization": true,
